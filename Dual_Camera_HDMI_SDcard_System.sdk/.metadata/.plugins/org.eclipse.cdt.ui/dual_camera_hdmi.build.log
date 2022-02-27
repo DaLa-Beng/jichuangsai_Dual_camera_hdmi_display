@@ -1,0 +1,8 @@
+15:37:10 **** Incremental Build of configuration Debug for project dual_camera_hdmi ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+
+15:37:11 Build Finished (took 730ms)
+

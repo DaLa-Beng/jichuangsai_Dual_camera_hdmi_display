@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Feb 27 16:14:28 2022
+# Process ID: 2856
+# Current directory: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19996 C:\Users\Administrator\Desktop\Dual_Camera_HDMI_SDcard_System\Dual_Camera_HDMI_SDcard_System.xpr
+# Log file: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System/vivado.log
+# Journal file: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System/Dual_Camera_HDMI_SDcard_System.xpr
+open_project E:/User_Coding/dual_camera_hdmi_version_2/dual_camera_hdmi_version_2.xpr

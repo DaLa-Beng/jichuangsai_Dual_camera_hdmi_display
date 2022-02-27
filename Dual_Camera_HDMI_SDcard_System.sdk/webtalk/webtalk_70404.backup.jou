@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# 
+# Start of session at: Fri Feb 18 01:12:33 2022
+# Process ID: 70404
+# Current directory: E:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/dual_ov5640_hdmi.sdk/webtalk
+# Command line: wbtcv.exe -mode batch -source sdk_webtalk.tcl
+# Log file: E:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/dual_ov5640_hdmi.sdk/webtalk/webtalk.log
+# Journal file: E:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/dual_ov5640_hdmi.sdk/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl

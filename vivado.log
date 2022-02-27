@@ -1,0 +1,41 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:38:27 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Feb 27 16:14:28 2022
+# Process ID: 2856
+# Current directory: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19996 C:\Users\Administrator\Desktop\Dual_Camera_HDMI_SDcard_System\Dual_Camera_HDMI_SDcard_System.xpr
+# Log file: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System/vivado.log
+# Journal file: C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Administrator/Desktop/Dual_Camera_HDMI_SDcard_System/Dual_Camera_HDMI_SDcard_System.xpr
+INFO: [Project 1-313] Project file moved from 'E:/User_Coding/Xilinx_prj_2018_3/Dual_Camera_HDMI_SDcard_System' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [filemgmt 56-1] IP Repository Path: Directory not found as 'C:/Users/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/ip_repo'; using path 'E:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/ip_repo' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'e:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/ip_repo'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado2018.3/Vivado/2018.3/data/ip'.
+ERROR: [BD 41-69] Error sourcing TCL script: 
+    while executing
+"namespace eval ::xilinx.com_ip_aximm_1.0 { source -notrace {E:/Vivado2018.3/Vivado/2018.3/data/rsb/busdef/AXIMM/busdef.tcl} }"
+ERROR: [BD 41-69] Error sourcing TCL script: 
+    while executing
+"source -notrace {E:/Vivado2018.3/Vivado/2018.3/data/rsb/busdef/clock_signal/busdef.tcl} "
+    (in namespace eval "::xilinx.com_ip_clock_signal_1.0" script line 1)
+    invoked from within
+"namespace eval ::xilinx.com_ip_clock_signal_1.0 { source -notrace {E:/Vivado2018.3/Vivado/2018.3/data/rsb/busdef/clock_signal/busdef.tcl} }"
+INFO: [Common 17-344] 'open_project' was cancelled
+open_project E:/User_Coding/dual_camera_hdmi_version_2/dual_camera_hdmi_version_2.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'e:/ZhengDian_SourceCode/ZDYZ/2_Embedded_System/ZYNQ_SDK_7020/35_dual_ov5640_hdmi/ip_repo'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'E:/Vivado2018.3/Vivado/2018.3/data/ip'.
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Feb 27 16:14:55 2022...
